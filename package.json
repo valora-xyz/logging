@@ -55,7 +55,7 @@
     "@types/jest": "^30.0.0",
     "@types/node-fetch": "^2.6.13",
     "@types/shelljs": "^0.8.17",
-    "@types/supertest": "^6.0.3",
+    "@types/supertest": "^7.2.0",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@valora/eslint-config-typescript": "^1.1.44",
     "@valora/prettier-config": "^0.0.1",
