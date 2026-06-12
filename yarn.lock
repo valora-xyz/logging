@@ -389,10 +389,10 @@
     retry-request "^6.0.0"
     teeny-request "^9.0.0"
 
-"@google-cloud/logging-bunyan@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@google-cloud/logging-bunyan/-/logging-bunyan-5.1.0.tgz#443eb338988554e459d21247c67386922e1e9a1c"
-  integrity sha512-D2Rg5nb+onjWre4eEowWyNmVF1RN7WThWdu1cCOcTMVOoVEGJphMxrBo9VQKQmkqdlAUG4NaM6i2sqieISQDsg==
+"@google-cloud/logging-bunyan@^5.1.2":
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/@google-cloud/logging-bunyan/-/logging-bunyan-5.1.2.tgz#56243229689d0469e47348c02e23ab0ff2db036a"
+  integrity sha512-H7b8viYsGwM6mH5vSbGSc+LBuydBGm6yTWzTMAehSkp0p/0oITZ9HNWzfnojrkYlN0FK1WVGZ44RLYlk+N5HQQ==
   dependencies:
     "@google-cloud/logging" "^11.0.0"
     google-auth-library "^9.0.0"
