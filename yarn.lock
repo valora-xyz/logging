@@ -396,7 +396,7 @@
   dependencies:
     google-gax "^6.0.0"
 
-"@google-cloud/logging-bunyan@^6.0.0":
+"@google-cloud/logging-bunyan@^6.0.1":
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/@google-cloud/logging-bunyan/-/logging-bunyan-6.0.1.tgz#ea092a32984859e7b6cac04357a572f3d233afc1"
   integrity sha512-DN2kjCE6xUERS+Rv2ChiDuQKSrlHe1GDJawy7dJwP9g7Ow05we2mn/J0jNvlFsvqXaYHdbC43no3izfd+jUo9A==
