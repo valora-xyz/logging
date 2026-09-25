@@ -404,10 +404,10 @@
     "@google-cloud/logging" "^12.0.0"
     google-auth-library "^11.0.0"
 
-"@google-cloud/logging@^12.0.0", "@google-cloud/logging@^12.0.1":
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/@google-cloud/logging/-/logging-12.0.1.tgz#cf74f906633d91d7e1dd2819c93ce781d191d7d8"
-  integrity sha512-bvft23NAkdvtOwybi8ilImFXHseMgXRS+4P1YAVx6Leu5uZpZwV0hsGpj59m6P9lsziQgt/E65TVjrjET02MZg==
+"@google-cloud/logging@^12.0.0", "@google-cloud/logging@^12.1.0":
+  version "12.1.0"
+  resolved "https://registry.yarnpkg.com/@google-cloud/logging/-/logging-12.1.0.tgz#37cba76b8f23918873ce80275ecf1ae023c443fd"
+  integrity sha512-Nf11w/91L+h4M/U5tTKjyXZAEv8Q6o5boUrkHa8bYzmB7R/NAVnjUP7rO+mu/2OSE9OQ8IkdJXQLsHrL9j/6tQ==
   dependencies:
     "@google-cloud/common" "^8.0.0"
     "@google-cloud/logging-api" "^0.3.0"
