@@ -404,7 +404,7 @@
     "@google-cloud/logging" "^12.0.0"
     google-auth-library "^11.0.0"
 
-"@google-cloud/logging@^12.0.0", "@google-cloud/logging@^12.2.0":
+"@google-cloud/logging@^12.0.0", "@google-cloud/logging@^12.3.0":
   version "12.3.0"
   resolved "https://registry.yarnpkg.com/@google-cloud/logging/-/logging-12.3.0.tgz#513fbe5e69b990e09818766d67a1d8d6e2cc26c1"
   integrity sha512-7c5arcLyG3WbHmQWCHSB1a1h06539U7VQax67FJWfiKKwoxkekpDzOukB5pwdtglca5/8ur1RGfx4w1ng9pz4g==
